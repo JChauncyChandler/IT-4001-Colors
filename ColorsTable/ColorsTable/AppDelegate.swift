@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Colors
+//  ColorsTable
 //
 //  Created by Chandler, Jackson C. (MU-Student) on 10/22/17.
 //  Copyright © 2017 Chandler, Jackson C. (MU-Student). All rights reserved.

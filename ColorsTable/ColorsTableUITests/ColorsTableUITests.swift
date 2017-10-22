@@ -1,6 +1,6 @@
 //
-//  ColorsUITests.swift
-//  ColorsUITests
+//  ColorsTableUITests.swift
+//  ColorsTableUITests
 //
 //  Created by Chandler, Jackson C. (MU-Student) on 10/22/17.
 //  Copyright © 2017 Chandler, Jackson C. (MU-Student). All rights reserved.
@@ -8,7 +8,7 @@
 
 import XCTest
 
-class ColorsUITests: XCTestCase {
+class ColorsTableUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()
